@@ -66,7 +66,7 @@ Lancez la commande `npm test` et observez la différence dans la console.
 
 ## [Bonus] Exercice 6 : 
 
-A l'aide de la librairie supertest écrire les tests d'intégration suivant qui serviront à tester notre API.
+A l'aide de la librairie [supertest](https://www.npmjs.com/package/supertest) écrire les tests d'intégration suivant qui serviront à tester notre API.
 
 1. Ecrivez un test qui compte les mots de cette citation en passant par l'api.
  - "Compiler c'est tester !"
