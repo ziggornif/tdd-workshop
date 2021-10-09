@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "extends": ["eslint:recommended", "airbnb-base", "plugin:prettier/recommended"],
+  "parserOptions": {
+    "ecmaVersion": 2020
+  },
+  "env": {
+    "jest": true
+  },
+  "rules": {
+    "no-console": "off"
+  }
+}
