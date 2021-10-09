@@ -34,8 +34,8 @@ Corrigez les erreurs présentes dans le code et vérifiez que vous obtenez des t
 
 Améliorez la fonctionnalité en gérant le cas ou la citation est vide.
 
-1. Ecrivez un nouveau test qui passe une chaîne vide à la fonction et qui s'attends à reçevoir zéro en résultat. Que se passe t'il ?
-2. Faites la modification de code pour prendre en compte ce cas d'usage. Le code écrit répond au besoin. Les tests unitaire sont tous valides.
+1. Ecrivez un nouveau test qui passe une chaîne vide à la fonction et qui s'attend à reçevoir zéro en résultat. Que se passe t'il ?
+2. Faites la modification de code pour prendre en compte ce cas d'usage. Le code écrit répond au besoin et les tests unitaire sont tous valides.
 
 # Exercice 3 :
 
@@ -43,11 +43,9 @@ Augmentez la fonctionnalité en comptant les mots dans ces citations :
  - "Tester c'est douter, corriger c'est abdiquer"
  - "Rien n'est codé par hasard"
 
- **Rejouez la méthode TDD**
-
 Nous allons utiliser la méthode TDD  :
 1. Commencez par mettre en place les tests unitaires dans un premier temps. Le code actuel ne permet pas de gérer ces cas là, il faut le faire évoluer.
-2. Faites la modification de code pour prendre en compte ces citations. Le code écrit répond au besoin. Les tests unitaire sont tous valides.
+2. Faites la modification de code pour prendre en compte ces citations. Le code écrit répond au besoin et les tests unitaire sont tous valides.
 3. Le code n'est pas dans un format synthétique et facilement maintenable, on le refactorise. Le code écrit répond au besoin et est lisible et maintenable. Les tests unitaire sont tous valides.
 
 ## Exercice 4 :
