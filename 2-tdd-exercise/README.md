@@ -32,9 +32,9 @@ Corrigez les erreurs présentes dans le code et vérifiez que vous obtenez des t
 
 ## Exercice 2 :
 
-Améliorez la fonctionnalité en gérant le cas ou la citation est vide.
+Améliorez la fonctionnalité en gérant le cas ou la citation est nulle.
 
-1. Ecrivez un nouveau test qui passe une chaîne vide à la fonction et qui s'attend à reçevoir zéro en résultat. Que se passe t'il ?
+1. Ecrivez un nouveau test qui ne passe pas de paramètre à la fonction et qui s'attend à reçevoir zéro en résultat. Que se passe t'il ?
 2. Faites la modification de code pour prendre en compte ce cas d'usage. Le code écrit répond au besoin et les tests unitaires sont tous valides.
 
 # Exercice 3 :
