@@ -14,10 +14,9 @@ Mise en pratique
 
 ![bg left:40% 80%](./assets/logo.png)
 
-
 ---
 
-#  La technique TDD (Test Driven Development)
+# La technique TDD (Test Driven Development)
 
 Le développement piloté par les tests est une technique qui demande l’écriture des tests unitaires avant l’écriture du code.
 
@@ -25,7 +24,7 @@ C’est une technique itérative et incrémentale, le cycle est répété tout a
 
 ---
 
-#  Cycle du TDD
+# Cycle du TDD
 
 - Écrire le test
 - Vérifier que le test échoue
@@ -39,10 +38,10 @@ C’est une technique itérative et incrémentale, le cycle est répété tout a
 
 # Librairies de tests
 
-![height:200px](./assets/nunit.png) ![height:200px](./assets/jest.png) 
-![height:300px](./assets/junit.png)  ![height:300px](./assets/mocha.png) 
+![height:200px](./assets/nunit.png) ![height:200px](./assets/jest.png)
+![height:300px](./assets/junit.png) ![height:300px](./assets/vitest.png)
 
-___
+---
 
 # La couverture de code
 
@@ -52,6 +51,12 @@ Quatre principales méthodes de couverture de code par les tests :
 • Couverture des instructions : combien de fois une ligne de code est appelée
 • Couverture des points de tests : combien de valeurs de variables sont testées
 • Couverture des chemins d’exécution : combien de parcours possibles sont testés
+
+---
+
+#
+
+![](./assets/julien-twitter.png)
 
 ---
 
@@ -77,6 +82,7 @@ function hello() {
   return 'Hello world !
 }
 ```
+
 ![bg right:40% 80%](https://c.tenor.com/4eg_bAH3xDsAAAAC/confused-why.gif)
 
 ---
@@ -85,18 +91,16 @@ function hello() {
 
 Mise en pratique de la méthodologie TDD :
 
-- Clonez le répo : https://github.com/drouian-m/tdd-workshop
+- https://github.com/labarretony/rhtest
 
-`git clone https://github.com/drouian-m/tdd-workshop`
-
-- Réalisez les exercices du répertoire `2-tdd-exercises`.
+Cliquez sur le bouton "Open in Gitpod"
 
 ---
 
 # Pour aller plus loin
 
 Quelques katas pour s'entraîner au TDD :
+
 - http://codingdojo.org/kata/FizzBuzz/
 - http://codingdojo.org/kata/StringCalculator/
 - http://codingdojo.org/kata/Bowling/
-
