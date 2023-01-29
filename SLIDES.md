@@ -83,8 +83,6 @@ function hello() {
 }
 ```
 
-![bg right:40% 80%](https://c.tenor.com/4eg_bAH3xDsAAAAC/confused-why.gif)
-
 ---
 
 # Mise en pratique
