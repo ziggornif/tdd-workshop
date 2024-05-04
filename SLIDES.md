@@ -87,11 +87,13 @@ function hello() {
 
 # Mise en pratique
 
-Mise en pratique de la méthodologie TDD :
+https://bit.ly/4bi1SwJ
 
-- https://github.com/labarretony/rhtest
+![bg right:50% 100%](./assets/bit.ly_4bi1SwJ.png)
 
-Cliquez sur le bouton "Open in Gitpod"
+Cliquer sur le bouton 
+
+![width:300px](https://camo.githubusercontent.com/95fbab4ac41e62a9f66e6d1d78f8249c418b33f8c7739c4f9c593f953f5362de/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667)
 
 ---
 
