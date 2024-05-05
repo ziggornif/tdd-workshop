@@ -99,6 +99,15 @@ Cliquer sur le bouton
 
 # Pour aller plus loin
 
+- Tests snapshot
+- Écriture des tests assisté par IA
+
+---
+
+# Pour aller plus loin (suite)
+
+Architecture hexagonale ([conférence Devoxx](https://youtu.be/-dXN8wkN0yk?si=zbGllnyK7g1wG_Sg))
+
 Quelques katas pour s'entraîner au TDD :
 
 - http://codingdojo.org/kata/FizzBuzz/

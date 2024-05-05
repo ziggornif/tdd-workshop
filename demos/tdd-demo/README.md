@@ -1,8 +1,8 @@
-# Hello TDD
+# TDD Démo
 
 ## Installation des dépendances
 
-Installation des dépendances d'éxécution et de développement
+Installation des dépendances d’exécution et de développement
 
 `npm ci`
 
