@@ -77,11 +77,11 @@ Si couverture inférieure au profil défini => build Gitlab KO 🚨
 
 Démonstration rapide d'un développement en TDD.
 
-```js
-function hello() {
-  return 'Hello world !
-}
-```
+**Feature :** Valider un panier d'achat selon les règles suivantes:
+- 1. Le panier ne peut pas être vide
+- 2. Chaque article doit avoir une quantité positive
+- 3. Le prix total ne peut pas dépasser 1000
+- 4. Le panier ne peut pas contenir plus de 10 articles différents
 
 ---
 
@@ -93,18 +93,35 @@ https://bit.ly/4bi1SwJ
 
 Cliquer sur le bouton 
 
-![width:300px](https://camo.githubusercontent.com/95fbab4ac41e62a9f66e6d1d78f8249c418b33f8c7739c4f9c593f953f5362de/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667)
+![width:300px](https://camo.githubusercontent.com/b04f5659467d23b5109ba935a40c00decd264eea25c22d50a118021349eea94f/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667)
+
+---
+
+# Et l'IA dans tout ça ?
+
+**TDD assisté par IA**
+
+- Écriture de tests assisté par IA
+- Features implémentées par IA à partir des assertions des tests
+
+**Outils :** Copilot, Windsurf, Cursor, Claude, self hosted solution (Ollama, Lmstudio)
+
+**Ressources :** [TDD & generative AI - a perfect pairing? by Bouke Nijhuis](https://www.youtube.com/watch?v=YRFpyGbp6h4)
+
+---
+
+# Conseils sur l'IA
+
+- **(Pour les alternants) demandez à votre entreprise les règles internes sur l'IA (outils autorisés, licences ...)**
+- Ne pas faire confiance aveuglément aux résultats produits
+- Toujours chercher à comprendre le code produit
+- Utiliser l'outil le plus adapté à une tâche (ex : un renommage de variable dans un projet est parfaitement géré par les IDE et ne nécessite pas d'IA)
 
 ---
 
 # Pour aller plus loin
 
-- Tests snapshot
-- Écriture des tests assisté par IA
-
----
-
-# Pour aller plus loin (suite)
+Tests snapshot
 
 Architecture hexagonale ([conférence Devoxx](https://youtu.be/-dXN8wkN0yk?si=zbGllnyK7g1wG_Sg))
 
