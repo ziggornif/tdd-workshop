@@ -38,8 +38,11 @@ C’est une technique itérative et incrémentale, le cycle est répété tout a
 
 # Librairies de tests
 
-![height:200px](./assets/nunit.png) ![height:200px](./assets/jest.png)
-![height:300px](./assets/junit.png) ![height:300px](./assets/vitest.png)
+- JS : Jest, Vitest, Mocha
+- Java : JUnit, Kotest (Kotlin)
+- Dotnet : NUnit
+- Rust : Natif via la commande cargo test
+- Go : Natif via la commande go test
 
 ---
 
@@ -80,7 +83,7 @@ Démonstration rapide d'un développement en TDD.
 **Feature :** Valider un panier d'achat selon les règles suivantes:
 - 1. Le panier ne peut pas être vide
 - 2. Chaque article doit avoir une quantité positive
-- 3. Le prix total ne peut pas dépasser 1000
+- 3. Le prix total ne peut pas dépasser 1000€
 - 4. Le panier ne peut pas contenir plus de 10 articles différents
 
 ---
@@ -94,6 +97,16 @@ https://bit.ly/4bi1SwJ
 Cliquer sur le bouton 
 
 ![width:300px](https://camo.githubusercontent.com/b04f5659467d23b5109ba935a40c00decd264eea25c22d50a118021349eea94f/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667)
+
+---
+
+# Rendu du TP
+
+- Archive avec les fichiers :
+    - apps/rhapi/src/employee/employee.service.ts
+    - apps/rhapi/src/employee/employee.service.spec.ts
+- Envoyer par mail à drouian-m@mgdis.fr
+- **Rendu attendu avant la fin de journée (13/05/2025)**
 
 ---
 
